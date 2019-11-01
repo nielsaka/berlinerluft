@@ -1,4 +1,3 @@
 # berlinerluft
 
-See files here:
-https://nx5468.your-storageshare.de/s/S2NNj5Lofbjqztq
+a few files from Berlin R user group meeting on [29th October 2019](https://www.meetup.com/Berlin-R-Users-Group/events/265498823/). 
